@@ -1,0 +1,39 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "photo" : "../assets/android-chrome-192x192.png",
+      "name": "Бензопила",
+      "price": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+    },
+    {
+      "id": 2,
+      "photo" : "../assets/android-chrome-192x192.png",
+      "name": "Косилка",
+      "price": 146,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+    },
+    {
+      "id": 3,
+      "photo" : "../assets/android-chrome-192x192.png",
+      "name": "Программист",
+      "price": 199,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+    },
+    {
+      "id": 4,
+      "photo" : "../assets/android-chrome-192x192.png",
+      "name": "Машина",
+      "price": 235,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+    },
+    {
+      "id": 5,
+      "photo" : "../assets/android-chrome-192x192.png",
+      "name": "Квартира Владу",
+      "price": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+    }
+  ]
+}
